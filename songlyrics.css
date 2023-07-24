@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: white;
+}
+
+.center-container {
+    text-align: center;
+}
+
+.centered-text {
+    text-align: center;
+}
+  
+img {
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    color: green;
+    font-weight: bolder;
+    font-size: 20px;
+}
